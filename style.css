@@ -1,0 +1,38 @@
+.tarea{
+    background-color: green;
+    width: 400px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tarea1{
+    background-color:white;
+    width: 290px;
+    height: 300px;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.tarea2{
+    background-color: gold;
+    width: 200px;
+    height: 200px;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.tarea3{
+    background: cyan;
+    width: 250px;
+    height: 50px;
+}
